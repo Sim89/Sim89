@@ -1,7 +1,7 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F74299&size=24&center=true&vCenter=true&lines=Hey+There!+I'm+Simren+Chandan!+;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 
 
-## https://img.shields.io/badge/Javascript-text-yellow
+
 <!--
 **Sim89/Sim89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
