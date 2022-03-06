@@ -4,8 +4,8 @@ Full Stack Software Developer
 
 On a learning journey with the school of code where I am learning to become a full stack software developer.
 
-[![Simren's GitHub stats](https://github-readme-stats.vercel.app/api?username=SimrenChandan's)](https://github.com/SimrenChandan/github-readme-stats)
-![Simren's GitHub stats](https://github-readme-stats.vercel.app/api?username=SimrenChandan's&show_icons=true&theme=cobalt)
+[![Simren's GitHub stats](https://github-readme-stats.vercel.app/api?username=simrenchandan)](https://github.com/Sim89/github-readme-stats)
+![Simren's GitHub stats](https://github-readme-stats.vercel.app/api?username=simrenchandan&show_icons=true&theme=cobalt)
 
 
 About Me 😃
@@ -37,5 +37,5 @@ Testing Used
 
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)  ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)  ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)  ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimrenChandan&layout=compact)](https://github.com/SimrenChandan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simrenchandan&layout=compact)](https://github.com/Sim89/github-readme-stats)
 
