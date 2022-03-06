@@ -4,7 +4,7 @@ Full Stack Software Developer
 
 On a learning journey with the school of code where I am learning to become a full stack software developer.
 
-![Simren's GitHub stats](https://github-readme-stats.vercel.app/api?username=sim89&show_icons=true&theme=cobalt)
+![Simren's GitHub stats](https://github-readme-stats.vercel.app/api?username=sim89&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sim89&layout=compact)](https://github.com/Sim89/github-readme-stats)
 
 
