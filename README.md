@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F74299&size=24&center=true&vCenter=true&lines=Hey+There!+I'm+Simren+Chandan!+;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F74299&size=24&center=true&vCenter=true&lines= Hey+There!+I'm+Simren+Chandan!+; Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 
 Full Stack Software Developer
 
