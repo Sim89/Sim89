@@ -8,7 +8,8 @@ On a learning journey with the school of code where I am learning to become a fu
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sim89&layout=compact)](https://github.com/Sim89/github-readme-stats)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=3AF7CF&center=true&vCenter=true&width=380&lines=About+Me)](https://git.io/typing-svg)😃
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=3AF7CF&center=true&vCenter=true&width=380&lines=About+Me)](https://git.io/typing-svg)
+
 
 I am an ambitious, self-motivated  and organised person, dedicated to learning new skills and solving problems. I am especially interested in developing technology which helps people solve the challenges they face. I am experienced at working in, and leading, teams to deliver on objectives using the skills that I have developed from my previous role as a Biomedical Scientist and my time at the School of Code, such as; communication, teamworking, leadership, adaptability, and flexibility. I am now looking to join a company to solve problems and create meaningful technology for the world. 
 
